@@ -6,12 +6,10 @@ name = "pypi"
 [packages]
 numpy = "*"
 pandas = "*"
-jinja2 = "*"
 seaborn = "*"
 scikit-learn = "*"
 matplotlib = "*"
 tensorflow = "*"
-nltk = "*"
 
 [dev-packages]
 ipykernel = "*"
